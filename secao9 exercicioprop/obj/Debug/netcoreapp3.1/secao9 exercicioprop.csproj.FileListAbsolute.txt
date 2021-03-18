@@ -1,0 +1,13 @@
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.exe
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.deps.json
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.runtimeconfig.json
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.runtimeconfig.dev.json
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.dll
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\bin\Debug\netcoreapp3.1\secao9 exercicioprop.pdb
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.csprojAssemblyReference.cache
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.AssemblyInfoInputs.cache
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.AssemblyInfo.cs
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.csproj.CoreCompileInputs.cache
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.dll
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.pdb
+D:\Users\rafae\Desktop\estudos prog\c#\secao9 exercicioprop\secao9 exercicioprop\obj\Debug\netcoreapp3.1\secao9 exercicioprop.genruntimeconfig.cache

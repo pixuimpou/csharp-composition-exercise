@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "secao9 exercicioprop/1.0.0": {
+        "runtime": {
+          "secao9 exercicioprop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "secao9 exercicioprop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

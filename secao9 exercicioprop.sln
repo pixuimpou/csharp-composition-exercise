@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secao9 exercicioprop", "secao9 exercicioprop\secao9 exercicioprop.csproj", "{391CB62A-2411-4885-9D3A-BF1F78D46A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391CB62A-2411-4885-9D3A-BF1F78D46A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391CB62A-2411-4885-9D3A-BF1F78D46A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391CB62A-2411-4885-9D3A-BF1F78D46A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391CB62A-2411-4885-9D3A-BF1F78D46A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE7552B-8696-42D6-B6BA-7015D2B1E82E}
+	EndGlobalSection
+EndGlobal
